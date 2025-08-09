@@ -1,6 +1,6 @@
 # Task Management System
 
-A full-stack task management application built with Laravel (backend) and Vue 3 (frontend), featuring modern development practices, security measures, and comprehensive functionality.
+A full-stack task management application built with Laravel (backend) and Vue 3 (frontend), featuring modern development practices, security measures, and functionality.
 
 ## 🚀 Features
 
@@ -299,13 +299,7 @@ npm run type-check
 3. Deploy `dist/` folder to web server
 4. Configure web server for SPA routing
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 
 
